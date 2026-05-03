@@ -1,5 +1,6 @@
-
 📝 FULLSTACK Note Taking App
+
+👉 Live link: https://mern-thinkboard-yg2p.onrender.com/
 
 A full-stack note-taking application designed and developed to manage personal notes efficiently through a clean and responsive interface. The application allows users to create, update, and delete notes, with seamless communication between frontend and backend.
 
@@ -29,5 +30,3 @@ Backend: Node.js, Express
 Database: MongoDB
 Deployment: Vercel / Render / Railway
 🌍 Live Demo
-
-👉 [Add your live link here]
