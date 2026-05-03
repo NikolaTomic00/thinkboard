@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📝 FULLSTACK Note Taking App
 
 A simple, fully responsive note-taking application where users can create, update, and delete notes with a title and description.
