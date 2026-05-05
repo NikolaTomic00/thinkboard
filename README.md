@@ -1,6 +1,6 @@
 📝Thinkboard – Fullstack Note Taking App
 Full-stack application for creating, updating, and deleting notes, built with React, Node.js, and MongoDB, featuring a RESTful API and responsive UI.
-
+![Preview](./assets/preview.png)
 
 🛠️ Tech Stack
 Frontend: React, Tailwind CSS
